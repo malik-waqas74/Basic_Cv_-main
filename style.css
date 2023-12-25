@@ -1,0 +1,30 @@
+body{
+      background-color: #EAF6F6;
+}
+hr{
+    border-color: grey;
+    border-style:none;
+    border-top-style:dotted;
+    border-top-width: 8px;
+
+
+    width: 10%;/*indicates the width of the line*/
+}
+
+h1{
+    color: #66BFBF;
+    font-family:sans-serif;
+}
+h3{
+  color:#66BFBF;
+  font-family:cursive;
+  background-color: grey;
+  display:inline-block;
+  width : 20%;
+}
+
+table{
+    border-style:hidden;
+    border-color: white;
+    border: 9;
+}
